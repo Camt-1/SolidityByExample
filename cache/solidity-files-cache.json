@@ -1,0 +1,509 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\proj\\contracts\\Add.sol": {
+      "lastModificationDate": 1739167227494,
+      "contentHash": "2d863f8b0bcc7d64a79dfa0427d041f0",
+      "sourceName": "contracts/Add.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "Add"
+      ]
+    },
+    "D:\\proj\\contracts\\002FIrstApp.sol": {
+      "lastModificationDate": 1739192874199,
+      "contentHash": "6de19519f26be631f9d020d3e7be34cc",
+      "sourceName": "contracts/002FIrstApp.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Counter"
+      ]
+    },
+    "D:\\proj\\contracts\\003Primitive.sol": {
+      "lastModificationDate": 1739194017570,
+      "contentHash": "54b6eaae1615c0fa5c3649f4e21b99dd",
+      "sourceName": "contracts/003Primitive.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Primitives"
+      ]
+    },
+    "D:\\proj\\contracts\\004Variables.sol": {
+      "lastModificationDate": 1739196714415,
+      "contentHash": "bd76ef54883ad748f49a75821c768405",
+      "sourceName": "contracts/004Variables.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Variables"
+      ]
+    },
+    "D:\\proj\\contracts\\005Constants.sol": {
+      "lastModificationDate": 1739196904092,
+      "contentHash": "4b669034687b3fc174f096e214b28c2b",
+      "sourceName": "contracts/005Constants.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Constants"
+      ]
+    },
+    "D:\\proj\\contracts\\006Immutable.sol": {
+      "lastModificationDate": 1739196904092,
+      "contentHash": "4b56b535e3e07f59a1a93689a9aff435",
+      "sourceName": "contracts/006Immutable.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Immutable"
+      ]
+    },
+    "D:\\proj\\contracts\\007ReadAndWrite.sol": {
+      "lastModificationDate": 1739196904092,
+      "contentHash": "067b1a70795cca2134a841de6deeda98",
+      "sourceName": "contracts/007ReadAndWrite.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "SimpleStorage"
+      ]
+    },
+    "D:\\proj\\contracts\\008EtherAndWei.sol": {
+      "lastModificationDate": 1739196904092,
+      "contentHash": "9302cd64a0fc2a66816565ccf6c4514f",
+      "sourceName": "contracts/008EtherAndWei.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "EtherUnits"
+      ]
+    },
+    "D:\\proj\\contracts\\009If_Else.sol": {
+      "lastModificationDate": 1739196904130,
+      "contentHash": "1c52d33d701440e2d8bf3f145bf4ed4d",
+      "sourceName": "contracts/009If_Else.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "IfElse"
+      ]
+    },
+    "D:\\proj\\contracts\\010ForWhile.sol": {
+      "lastModificationDate": 1739196904130,
+      "contentHash": "c65c61655e8ea60523bd8737aace016b",
+      "sourceName": "contracts/010ForWhile.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "ForWhile"
+      ]
+    },
+    "D:\\proj\\contracts\\011Map.sol": {
+      "lastModificationDate": 1739198838689,
+      "contentHash": "1065d5c1495aedfcad3e683e883363c9",
+      "sourceName": "contracts/011Map.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Mapping"
+      ]
+    },
+    "D:\\proj\\contracts\\012NextMap.sol": {
+      "lastModificationDate": 1739200709503,
+      "contentHash": "906a97023eb533a5da2ead78029c60d2",
+      "sourceName": "contracts/012NextMap.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "NextMapping"
+      ]
+    },
+    "D:\\proj\\contracts\\013Array.sol": {
+      "lastModificationDate": 1739205078708,
+      "contentHash": "74b2169c6f5610b6a7a9ee360579f778",
+      "sourceName": "contracts/013Array.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Array"
+      ]
+    },
+    "D:\\proj\\contracts\\014RemoveArray.sol": {
+      "lastModificationDate": 1739205981818,
+      "contentHash": "997be43e2d857783012f1c1458f279a0",
+      "sourceName": "contracts/014RemoveArray.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "removeArrary"
+      ]
+    }
+  }
+}
